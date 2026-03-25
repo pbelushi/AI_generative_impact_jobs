@@ -24,11 +24,33 @@ caminho_rais = PASTA_DADOS / "vinculos_cbo_uf_2024.csv"
 df_classificacao = pd.read_csv(caminho_classificacao)
 df_rais_estados = pd.read_csv(caminho_rais) # CORRIGIDO: Agora a variável tem o nome certo
 
-# 2. Converter CBO para texto
-df_classificacao['Código CBO'] = df_classificacao['Código CBO'].astype(str)
-df_rais_estados['codigo_cbo_4'] = df_rais_estados['codigo_cbo_4'].astype(str)
+# =========================================================================
+# LIMPEZA E TRATAMENTO DE SEGURANÇA
+# =========================================================================
+# 1. Limpar a sigla do estado (garantir que fique tudo maiúsculo e sem espaços)
+if 'sigla_uf' in df_rais_estados.columns:
+    df_rais_estados['sigla_uf'] = df_rais_estados['sigla_uf'].astype(str).str.strip().str.upper()
 
-# 3. Fazer o cruzamento (Merge) cruzando pelo CBO
+# 2. Padronizar o Código CBO da classificação (garantir 4 dígitos com zero à esquerda)
+df_classificacao['Código CBO'] = (
+    df_classificacao['Código CBO']
+    .astype(str)
+    .str.replace('.0', '', regex=False)
+    .str.strip()
+    .str.zfill(4)
+)
+
+# 3. Arrumar a base da RAIS (preencher zeros, garantir 6 dígitos e CORTAR para 4 dígitos)
+df_rais_estados['codigo_cbo_4'] = (
+    df_rais_estados['codigo_cbo_4']
+    .astype(str)
+    .str.replace('.0', '', regex=False)
+    .str.strip()
+    .str.zfill(6)
+    .str[:4] # <--- O SEGREDO AQUI: Pegamos apenas nos 4 primeiros dígitos!
+)
+
+# 4. Fazer o cruzamento (Merge) - O resto do código continua igual...
 df_impacto = pd.merge(
     df_classificacao, 
     df_rais_estados, 
