@@ -1,0 +1,29 @@
+# ==========================================
+# Ignorar arquivos de Dados (Evita lentidão e limites de tamanho no GitHub)
+# ==========================================
+Data/*.csv
+*.csv
+*.xlsx
+*.parquet
+
+# ==========================================
+# Ignorar Ambientes Virtuais (Cada desenvolvedor cria o seu localmente)
+# ==========================================
+.venv/
+venv/
+env/
+
+# ==========================================
+# Ignorar arquivos de Cache do Python
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+
+# ==========================================
+# Ignorar arquivos do Sistema Operacional e Editores (VS Code, etc.)
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
