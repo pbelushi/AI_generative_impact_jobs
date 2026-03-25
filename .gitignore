@@ -1,12 +1,4 @@
 # ==========================================
-# Ignorar arquivos de Dados (Evita lentidão e limites de tamanho no GitHub)
-# ==========================================
-Data/*.csv
-*.csv
-*.xlsx
-*.parquet
-
-# ==========================================
 # Ignorar Ambientes Virtuais (Cada desenvolvedor cria o seu localmente)
 # ==========================================
 .venv/
