@@ -1,8 +1,8 @@
 import pandas as pd
 
 # 1. Carregar as planilhas (Lembre-se de apontar para o NOVO arquivo que veio do BigQuery)
-df_classificacao = pd.read_csv(r"C:\Users\psilva4\Downloads\.venv\AI_generative_impact_jobs\Data\CBOs por exposição à IA generativa - Página1 (1).csv")
-df_rais_estados = pd.read_csv(r"C:\Users\psilva4\Downloads\.venv\AI_generative_impact_jobs\Data\vinculos_cbo_uf_2024.csv")
+df_classificacao = pd.read_csv(r"../Data/CBOs por exposição à IA generativa - Página1 (1).csv")
+df_rais_estados = pd.read_csv(r"../Data/vinculos_cbo_uf_2024.csv")
 
 # 2. Converter CBO para texto
 df_classificacao['Código CBO'] = df_classificacao['Código CBO'].astype(str)
@@ -41,7 +41,7 @@ resumo_estados['percentual_no_estado (%)'] = (resumo_estados['total_vinculos_ati
 resumo_estados = resumo_estados.sort_values(by=['sigla_uf', 'Gradiente'])
 
 # Salvar o CSV para análise (números crus)
-caminho_estados = r"C:\Users\psilva4\Downloads\.venv\AI_generative_impact_jobs\Data\Resumo_Impacto_IA_por_Estado_2024.csv"
+caminho_estados = r"../Data/Resumo_Impacto_IA_por_Estado_2024.csv"
 resumo_estados.to_csv(caminho_estados, index=False, sep=';', encoding='utf-8-sig')
 
 print(f"✅ Arquivo por estados salvo com sucesso em: {caminho_estados}")
