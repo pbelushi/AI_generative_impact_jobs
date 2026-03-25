@@ -35,4 +35,4 @@ O projeto foi estruturado com caminhos relativos à prova de falhas. Você pode 
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/pbelushi/AI_generative_impact_jobs.git)
+   git clone (https://github.com/pbelushi/AI_generative_impact_jobs.git)
