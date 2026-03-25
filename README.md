@@ -27,7 +27,7 @@ Os scripts automatizam o cruzamento, a limpeza e o cálculo de percentuais, gera
 * **Bibliotecas de Análise:** `pandas`
 * **Arquitetura:** `pathlib` (para gestão de caminhos relativos, garantindo que o código rode em qualquer máquina).
 * **Banco de Dados/SQL:** Google BigQuery
-* **Visualização de Dados:** Datawrapper
+* **Visualização de Dados:** Datawrapper (https://datawrapper.dwcdn.net/cjuqo/1/)
 
 ## 🚀 Como Executar o Projeto
 
