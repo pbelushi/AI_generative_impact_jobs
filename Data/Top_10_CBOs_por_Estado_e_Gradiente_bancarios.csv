@@ -1,0 +1,1202 @@
+﻿sigla_uf;Gradiente;Código CBO;Título da Família Ocupacional;total_vinculos_ativos
+AC;0;5143;Não mapeado no estudo original;448
+AC;0;5174;Não mapeado no estudo original;194
+AC;0;3341;Não mapeado no estudo original;167
+AC;0;7824;Não mapeado no estudo original;167
+AC;0;2532;Não mapeado no estudo original;129
+AC;0;1421;Não mapeado no estudo original;79
+AC;0;3132;Não mapeado no estudo original;30
+AC;0;7832;Não mapeado no estudo original;29
+AC;0;4141;Não mapeado no estudo original;23
+AC;0;5134;Não mapeado no estudo original;16
+AC;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);62
+AC;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);50
+AC;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);7
+AC;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);3
+AC;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;63
+AC;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;54
+AC;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;35
+AC;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;16
+AC;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);7
+AC;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;5
+AC;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;5
+AC;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;4
+AC;Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;4
+AC;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;3
+AC;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);684
+AC;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;43
+AC;Gradiente 3;4222;Recepcionistas em geral e Operadores de telefonia;28
+AC;Gradiente 3;3517;Técnicos e Corretores de seguros;5
+AC;Gradiente 3;3545;Técnicos e Corretores de seguros;4
+AC;Gradiente 3;2523;Secretárias executivas e bilíngues;2
+AC;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;745
+AC;Gradiente 4;3532;Técnicos em operações e serviços bancários;17
+AC;Gradiente 4;2525;Profissionais de administração econômico-financeira;15
+AC;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);2
+AL;0;2532;Não mapeado no estudo original;337
+AL;0;1421;Não mapeado no estudo original;267
+AL;0;7170;Não mapeado no estudo original;71
+AL;0;7825;Não mapeado no estudo original;61
+AL;0;7151;Não mapeado no estudo original;46
+AL;0;5143;Não mapeado no estudo original;39
+AL;0;2142;Não mapeado no estudo original;24
+AL;0;1231;Não mapeado no estudo original;14
+AL;0;7152;Não mapeado no estudo original;13
+AL;0;5199;Não mapeado no estudo original;13
+AL;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);50
+AL;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);15
+AL;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);10
+AL;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);9
+AL;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;110
+AL;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;78
+AL;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;72
+AL;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;53
+AL;Gradiente 2;5241;Vendedores em domicílio;39
+AL;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;22
+AL;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;18
+AL;Gradiente 2;4142;Apontadores e conferentes;11
+AL;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;4
+AL;Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;4
+AL;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2199
+AL;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;15
+AL;Gradiente 3;3517;Técnicos e Corretores de seguros;14
+AL;Gradiente 3;2523;Secretárias executivas e bilíngues;9
+AL;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;9
+AL;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;3
+AL;Gradiente 3;3514;Serventuários da justiça e afins;3
+AL;Gradiente 3;3545;Técnicos e Corretores de seguros;2
+AL;Gradiente 3;2611;Profissionais do jornalismo e Editores;1
+AL;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;352
+AL;Gradiente 4;2525;Profissionais de administração econômico-financeira;49
+AL;Gradiente 4;3532;Técnicos em operações e serviços bancários;21
+AL;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);13
+AL;Gradiente 4;4231;Despachantes documentalistas e afins;10
+AL;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;10
+AL;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);9
+AL;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;2
+AL;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;2
+AM;0;2532;Não mapeado no estudo original;568
+AM;0;1421;Não mapeado no estudo original;314
+AM;0;5143;Não mapeado no estudo original;42
+AM;0;4141;Não mapeado no estudo original;33
+AM;0;2142;Não mapeado no estudo original;21
+AM;0;2149;Não mapeado no estudo original;13
+AM;0;5174;Não mapeado no estudo original;13
+AM;0;5121;Não mapeado no estudo original;10
+AM;0;5142;Não mapeado no estudo original;9
+AM;0;2141;Não mapeado no estudo original;8
+AM;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);77
+AM;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);30
+AM;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);11
+AM;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);3
+AM;Gradiente 1;2515;Psicólogos e psicanalistas;3
+AM;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;228
+AM;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;116
+AM;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;114
+AM;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;83
+AM;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;45
+AM;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;31
+AM;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;17
+AM;Gradiente 2;4142;Apontadores e conferentes;16
+AM;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;14
+AM;Gradiente 2;2624;Artistas visuais e desenhistas industriais (Designers);10
+AM;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);1804
+AM;Gradiente 3;3517;Técnicos e Corretores de seguros;59
+AM;Gradiente 3;2122;Engenheiros de computação e Administradores de TI;34
+AM;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;25
+AM;Gradiente 3;2523;Secretárias executivas e bilíngues;22
+AM;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;7
+AM;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;6
+AM;Gradiente 3;3548;Técnicos em serviços de turismo e organização de eventos;4
+AM;Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;3
+AM;Gradiente 3;3545;Técnicos e Corretores de seguros;3
+AM;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;475
+AM;Gradiente 4;2525;Profissionais de administração econômico-financeira;66
+AM;Gradiente 4;3532;Técnicos em operações e serviços bancários;46
+AM;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);43
+AM;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;5
+AM;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;2
+AM;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+AP;0;2532;Não mapeado no estudo original;95
+AP;0;1421;Não mapeado no estudo original;38
+AP;0;3542;Não mapeado no estudo original;7
+AP;0;5143;Não mapeado no estudo original;6
+AP;0;2141;Não mapeado no estudo original;5
+AP;0;3751;Não mapeado no estudo original;4
+AP;0;5132;Não mapeado no estudo original;3
+AP;0;2142;Não mapeado no estudo original;3
+AP;0;2410;Não mapeado no estudo original;3
+AP;0;1422;Não mapeado no estudo original;3
+AP;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);14
+AP;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);4
+AP;Gradiente 1;2515;Psicólogos e psicanalistas;1
+AP;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;35
+AP;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;17
+AP;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;15
+AP;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;11
+AP;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;8
+AP;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;6
+AP;Gradiente 2;3513;Técnicos em contabilidade e em administração;6
+AP;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;5
+AP;Gradiente 2;5241;Vendedores em domicílio;4
+AP;Gradiente 2;1227;Diretores e Gerentes em instituições de interm. financeira;3
+AP;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);505
+AP;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;4
+AP;Gradiente 3;3517;Técnicos e Corretores de seguros;1
+AP;Gradiente 3;2611;Profissionais do jornalismo e Editores;1
+AP;Gradiente 3;3514;Serventuários da justiça e afins;1
+AP;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;1
+AP;Gradiente 3;2523;Secretárias executivas e bilíngues;1
+AP;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;82
+AP;Gradiente 4;3532;Técnicos em operações e serviços bancários;8
+AP;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);4
+AP;Gradiente 4;2525;Profissionais de administração econômico-financeira;4
+AP;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;2
+AP;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);1
+AP;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;1
+BA;0;2532;Não mapeado no estudo original;2501
+BA;0;1421;Não mapeado no estudo original;1411
+BA;0;5143;Não mapeado no estudo original;126
+BA;0;2142;Não mapeado no estudo original;87
+BA;0;2410;Não mapeado no estudo original;63
+BA;0;5174;Não mapeado no estudo original;62
+BA;0;7170;Não mapeado no estudo original;59
+BA;0;7152;Não mapeado no estudo original;58
+BA;0;3222;Não mapeado no estudo original;28
+BA;0;4141;Não mapeado no estudo original;22
+BA;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);450
+BA;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);43
+BA;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);42
+BA;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);24
+BA;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;3
+BA;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;3
+BA;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;862
+BA;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;761
+BA;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;658
+BA;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;388
+BA;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;195
+BA;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;177
+BA;Gradiente 2;5241;Vendedores em domicílio;147
+BA;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;39
+BA;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;38
+BA;Gradiente 2;3513;Técnicos em contabilidade e em administração;31
+BA;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);10619
+BA;Gradiente 3;3517;Técnicos e Corretores de seguros;336
+BA;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;99
+BA;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;99
+BA;Gradiente 3;2523;Secretárias executivas e bilíngues;60
+BA;Gradiente 3;3545;Técnicos e Corretores de seguros;48
+BA;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;15
+BA;Gradiente 3;3514;Serventuários da justiça e afins;13
+BA;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;12
+BA;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;7
+BA;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;2026
+BA;Gradiente 4;2525;Profissionais de administração econômico-financeira;328
+BA;Gradiente 4;3532;Técnicos em operações e serviços bancários;152
+BA;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;84
+BA;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);69
+BA;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);52
+BA;Gradiente 4;4231;Despachantes documentalistas e afins;6
+BA;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;6
+BA;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;4
+CE;0;2532;Não mapeado no estudo original;1188
+CE;0;1421;Não mapeado no estudo original;707
+CE;0;5143;Não mapeado no estudo original;145
+CE;0;7170;Não mapeado no estudo original;114
+CE;0;2410;Não mapeado no estudo original;56
+CE;0;7152;Não mapeado no estudo original;53
+CE;0;5174;Não mapeado no estudo original;49
+CE;0;5191;Não mapeado no estudo original;42
+CE;0;2142;Não mapeado no estudo original;41
+CE;0;3542;Não mapeado no estudo original;37
+CE;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);442
+CE;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);133
+CE;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);44
+CE;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);23
+CE;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;6
+CE;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+CE;Gradiente 1;1225;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+CE;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;441
+CE;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;394
+CE;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;326
+CE;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;277
+CE;Gradiente 2;5241;Vendedores em domicílio;204
+CE;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;171
+CE;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;156
+CE;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;72
+CE;Gradiente 2;4213;Cobradores e afins;69
+CE;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;55
+CE;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);9116
+CE;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;203
+CE;Gradiente 3;3517;Técnicos e Corretores de seguros;200
+CE;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;44
+CE;Gradiente 3;2523;Secretárias executivas e bilíngues;40
+CE;Gradiente 3;3545;Técnicos e Corretores de seguros;32
+CE;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;30
+CE;Gradiente 3;4222;Recepcionistas em geral e Operadores de telefonia;27
+CE;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;26
+CE;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;14
+CE;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1552
+CE;Gradiente 4;2525;Profissionais de administração econômico-financeira;358
+CE;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);98
+CE;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;91
+CE;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);59
+CE;Gradiente 4;3532;Técnicos em operações e serviços bancários;54
+CE;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;22
+CE;Gradiente 4;4231;Despachantes documentalistas e afins;7
+CE;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;2
+DF;0;2532;Não mapeado no estudo original;984
+DF;0;1421;Não mapeado no estudo original;503
+DF;0;2410;Não mapeado no estudo original;438
+DF;0;2142;Não mapeado no estudo original;215
+DF;0;5143;Não mapeado no estudo original;189
+DF;0;5142;Não mapeado no estudo original;117
+DF;0;1231;Não mapeado no estudo original;110
+DF;0;2141;Não mapeado no estudo original;98
+DF;0;1114;Não mapeado no estudo original;89
+DF;0;7170;Não mapeado no estudo original;65
+DF;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);386
+DF;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);53
+DF;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);26
+DF;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);25
+DF;Gradiente 1;2515;Psicólogos e psicanalistas;5
+DF;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;3
+DF;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;1
+DF;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+DF;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;744
+DF;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;315
+DF;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;297
+DF;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;276
+DF;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;201
+DF;Gradiente 2;3513;Técnicos em contabilidade e em administração;187
+DF;Gradiente 2;5241;Vendedores em domicílio;117
+DF;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;105
+DF;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;96
+DF;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;77
+DF;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);38114
+DF;Gradiente 3;3517;Técnicos e Corretores de seguros;286
+DF;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;187
+DF;Gradiente 3;2523;Secretárias executivas e bilíngues;110
+DF;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;63
+DF;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;43
+DF;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;30
+DF;Gradiente 3;3545;Técnicos e Corretores de seguros;28
+DF;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;28
+DF;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;10
+DF;Gradiente 4;2525;Profissionais de administração econômico-financeira;2384
+DF;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;2088
+DF;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);566
+DF;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);354
+DF;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;122
+DF;Gradiente 4;3532;Técnicos em operações e serviços bancários;68
+DF;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;10
+DF;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;3
+DF;Gradiente 4;4231;Despachantes documentalistas e afins;1
+ES;0;2532;Não mapeado no estudo original;1045
+ES;0;1421;Não mapeado no estudo original;625
+ES;0;6221;Não mapeado no estudo original;291
+ES;0;7825;Não mapeado no estudo original;214
+ES;0;7151;Não mapeado no estudo original;131
+ES;0;5143;Não mapeado no estudo original;90
+ES;0;9144;Não mapeado no estudo original;89
+ES;0;2410;Não mapeado no estudo original;83
+ES;0;6410;Não mapeado no estudo original;66
+ES;0;1231;Não mapeado no estudo original;43
+ES;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);117
+ES;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);14
+ES;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);10
+ES;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);8
+ES;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;5
+ES;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;975
+ES;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;737
+ES;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;577
+ES;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;380
+ES;Gradiente 2;5241;Vendedores em domicílio;117
+ES;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;109
+ES;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;68
+ES;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;44
+ES;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;41
+ES;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;29
+ES;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);4797
+ES;Gradiente 3;3517;Técnicos e Corretores de seguros;183
+ES;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;123
+ES;Gradiente 3;2523;Secretárias executivas e bilíngues;95
+ES;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;70
+ES;Gradiente 3;3545;Técnicos e Corretores de seguros;36
+ES;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;29
+ES;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;20
+ES;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;12
+ES;Gradiente 3;4222;Recepcionistas em geral e Operadores de telefonia;11
+ES;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1523
+ES;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);404
+ES;Gradiente 4;2525;Profissionais de administração econômico-financeira;135
+ES;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;82
+ES;Gradiente 4;3532;Técnicos em operações e serviços bancários;39
+ES;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);13
+ES;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;7
+ES;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;1
+ES;Gradiente 4;4231;Despachantes documentalistas e afins;1
+GO;0;2532;Não mapeado no estudo original;2201
+GO;0;1421;Não mapeado no estudo original;907
+GO;0;5143;Não mapeado no estudo original;357
+GO;0;3714;Não mapeado no estudo original;107
+GO;0;7170;Não mapeado no estudo original;96
+GO;0;3542;Não mapeado no estudo original;86
+GO;0;2410;Não mapeado no estudo original;74
+GO;0;2312;Não mapeado no estudo original;60
+GO;0;2142;Não mapeado no estudo original;58
+GO;0;3311;Não mapeado no estudo original;57
+GO;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);381
+GO;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);111
+GO;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);59
+GO;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);16
+GO;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;3
+GO;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;3
+GO;Gradiente 1;2618;Fotógrafos profissionais;1
+GO;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+GO;Gradiente 1;2515;Psicólogos e psicanalistas;1
+GO;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;926
+GO;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;747
+GO;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;629
+GO;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;366
+GO;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;276
+GO;Gradiente 2;5241;Vendedores em domicílio;175
+GO;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;160
+GO;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;146
+GO;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;139
+GO;Gradiente 2;4213;Cobradores e afins;106
+GO;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);6861
+GO;Gradiente 3;3517;Técnicos e Corretores de seguros;271
+GO;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;199
+GO;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;197
+GO;Gradiente 3;3545;Técnicos e Corretores de seguros;171
+GO;Gradiente 3;2523;Secretárias executivas e bilíngues;142
+GO;Gradiente 3;3514;Serventuários da justiça e afins;95
+GO;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;52
+GO;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;19
+GO;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;15
+GO;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;2836
+GO;Gradiente 4;2525;Profissionais de administração econômico-financeira;742
+GO;Gradiente 4;3532;Técnicos em operações e serviços bancários;313
+GO;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;283
+GO;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);188
+GO;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);164
+GO;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;14
+GO;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;3
+GO;Gradiente 4;4231;Despachantes documentalistas e afins;2
+IGNORADO;0;8485;Não mapeado no estudo original;29
+IGNORADO;0;4141;Não mapeado no estudo original;19
+IGNORADO;0;5143;Não mapeado no estudo original;17
+IGNORADO;0;2532;Não mapeado no estudo original;12
+IGNORADO;0;5191;Não mapeado no estudo original;9
+IGNORADO;0;7152;Não mapeado no estudo original;7
+IGNORADO;0;7170;Não mapeado no estudo original;7
+IGNORADO;0;3144;Não mapeado no estudo original;4
+IGNORADO;0;9144;Não mapeado no estudo original;2
+IGNORADO;0;2153;Não mapeado no estudo original;2
+IGNORADO;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);99
+IGNORADO;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);39
+IGNORADO;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);5
+IGNORADO;Gradiente 1;3713;Técnicos em artes gráficas;2
+IGNORADO;Gradiente 1;2515;Psicólogos e psicanalistas;1
+IGNORADO;Gradiente 2;1414;Diretores e Gerentes de operações comerciais (Varejo/Atacado);33
+IGNORADO;Gradiente 2;4142;Apontadores e conferentes;13
+IGNORADO;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;7
+IGNORADO;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;3
+IGNORADO;Gradiente 2;2624;Artistas visuais e desenhistas industriais (Designers);1
+IGNORADO;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;1
+IGNORADO;Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;1
+IGNORADO;Gradiente 2;3912;Técnicos de planejamento e controle da produção;1
+IGNORADO;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);16
+IGNORADO;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;19
+MA;0;2532;Não mapeado no estudo original;550
+MA;0;1421;Não mapeado no estudo original;454
+MA;0;1114;Não mapeado no estudo original;118
+MA;0;3211;Não mapeado no estudo original;43
+MA;0;2142;Não mapeado no estudo original;32
+MA;0;5143;Não mapeado no estudo original;29
+MA;0;7170;Não mapeado no estudo original;26
+MA;0;2410;Não mapeado no estudo original;20
+MA;0;5174;Não mapeado no estudo original;18
+MA;0;4141;Não mapeado no estudo original;17
+MA;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);87
+MA;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);20
+MA;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);11
+MA;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);10
+MA;Gradiente 1;2515;Psicólogos e psicanalistas;1
+MA;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+MA;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;283
+MA;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;160
+MA;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;147
+MA;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;131
+MA;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;45
+MA;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;39
+MA;Gradiente 2;5241;Vendedores em domicílio;19
+MA;Gradiente 2;4213;Cobradores e afins;17
+MA;Gradiente 2;3511;Técnicos em contabilidade e em administração;11
+MA;Gradiente 2;2531;Relações públicas, publicidade, mercado e negócios;5
+MA;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);3310
+MA;Gradiente 3;3517;Técnicos e Corretores de seguros;34
+MA;Gradiente 3;3545;Técnicos e Corretores de seguros;18
+MA;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;16
+MA;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;15
+MA;Gradiente 3;2523;Secretárias executivas e bilíngues;13
+MA;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;7
+MA;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;5
+MA;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;5
+MA;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;4
+MA;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;871
+MA;Gradiente 4;2525;Profissionais de administração econômico-financeira;41
+MA;Gradiente 4;3532;Técnicos em operações e serviços bancários;33
+MA;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;8
+MA;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);7
+MA;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);4
+MA;Gradiente 4;4231;Despachantes documentalistas e afins;1
+MA;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+MA;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;1
+MG;0;2532;Não mapeado no estudo original;6215
+MG;0;1421;Não mapeado no estudo original;3302
+MG;0;5143;Não mapeado no estudo original;822
+MG;0;2410;Não mapeado no estudo original;436
+MG;0;1231;Não mapeado no estudo original;308
+MG;0;7170;Não mapeado no estudo original;265
+MG;0;3542;Não mapeado no estudo original;257
+MG;0;7152;Não mapeado no estudo original;206
+MG;0;1422;Não mapeado no estudo original;178
+MG;0;2142;Não mapeado no estudo original;168
+MG;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);887
+MG;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);168
+MG;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);81
+MG;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);53
+MG;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;30
+MG;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;14
+MG;Gradiente 1;2515;Psicólogos e psicanalistas;5
+MG;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;4
+MG;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;3167
+MG;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;2885
+MG;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;1137
+MG;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;1104
+MG;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;953
+MG;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;523
+MG;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;425
+MG;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;384
+MG;Gradiente 2;5241;Vendedores em domicílio;361
+MG;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;342
+MG;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);25806
+MG;Gradiente 3;3517;Técnicos e Corretores de seguros;1021
+MG;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;860
+MG;Gradiente 3;2523;Secretárias executivas e bilíngues;332
+MG;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;256
+MG;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;234
+MG;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;171
+MG;Gradiente 3;3545;Técnicos e Corretores de seguros;146
+MG;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;113
+MG;Gradiente 3;2122;Engenheiros de computação e Administradores de TI;108
+MG;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;9214
+MG;Gradiente 4;2525;Profissionais de administração econômico-financeira;2825
+MG;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);2554
+MG;Gradiente 4;3532;Técnicos em operações e serviços bancários;612
+MG;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;431
+MG;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;332
+MG;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);217
+MG;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;40
+MS;0;2532;Não mapeado no estudo original;1524
+MS;0;1421;Não mapeado no estudo original;368
+MS;0;5143;Não mapeado no estudo original;37
+MS;0;6210;Não mapeado no estudo original;28
+MS;0;6410;Não mapeado no estudo original;23
+MS;0;2142;Não mapeado no estudo original;21
+MS;0;6201;Não mapeado no estudo original;12
+MS;0;2141;Não mapeado no estudo original;10
+MS;0;2410;Não mapeado no estudo original;9
+MS;0;1422;Não mapeado no estudo original;9
+MS;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);65
+MS;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);11
+MS;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);6
+MS;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);3
+MS;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;432
+MS;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;193
+MS;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;161
+MS;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;92
+MS;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;92
+MS;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;36
+MS;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;26
+MS;Gradiente 2;5241;Vendedores em domicílio;25
+MS;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;13
+MS;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);12
+MS;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2909
+MS;Gradiente 3;3517;Técnicos e Corretores de seguros;85
+MS;Gradiente 3;2523;Secretárias executivas e bilíngues;37
+MS;Gradiente 3;3545;Técnicos e Corretores de seguros;26
+MS;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;20
+MS;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;10
+MS;Gradiente 3;3514;Serventuários da justiça e afins;8
+MS;Gradiente 3;2122;Engenheiros de computação e Administradores de TI;7
+MS;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;3
+MS;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;3
+MS;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;958
+MS;Gradiente 4;2525;Profissionais de administração econômico-financeira;224
+MS;Gradiente 4;3532;Técnicos em operações e serviços bancários;95
+MS;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);30
+MS;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;15
+MS;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);8
+MS;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;5
+MS;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;4
+MT;0;2532;Não mapeado no estudo original;2645
+MT;0;1421;Não mapeado no estudo original;732
+MT;0;5143;Não mapeado no estudo original;119
+MT;0;1210;Não mapeado no estudo original;55
+MT;0;2410;Não mapeado no estudo original;42
+MT;0;2142;Não mapeado no estudo original;37
+MT;0;7825;Não mapeado no estudo original;36
+MT;0;4141;Não mapeado no estudo original;36
+MT;0;1422;Não mapeado no estudo original;32
+MT;0;6231;Não mapeado no estudo original;27
+MT;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);183
+MT;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);23
+MT;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);17
+MT;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);7
+MT;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;3
+MT;Gradiente 1;2515;Psicólogos e psicanalistas;1
+MT;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;725
+MT;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;509
+MT;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;255
+MT;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;197
+MT;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;181
+MT;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;98
+MT;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;47
+MT;Gradiente 2;5241;Vendedores em domicílio;47
+MT;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;42
+MT;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);36
+MT;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);4223
+MT;Gradiente 3;3517;Técnicos e Corretores de seguros;107
+MT;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;69
+MT;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;60
+MT;Gradiente 3;2523;Secretárias executivas e bilíngues;54
+MT;Gradiente 3;3514;Serventuários da justiça e afins;27
+MT;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;26
+MT;Gradiente 3;3545;Técnicos e Corretores de seguros;24
+MT;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;19
+MT;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;12
+MT;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1855
+MT;Gradiente 4;2525;Profissionais de administração econômico-financeira;469
+MT;Gradiente 4;3532;Técnicos em operações e serviços bancários;192
+MT;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);94
+MT;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;70
+MT;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);27
+MT;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;2
+MT;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+PA;0;2532;Não mapeado no estudo original;1201
+PA;0;1421;Não mapeado no estudo original;632
+PA;0;1115;Não mapeado no estudo original;282
+PA;0;2410;Não mapeado no estudo original;107
+PA;0;5142;Não mapeado no estudo original;80
+PA;0;2142;Não mapeado no estudo original;58
+PA;0;3542;Não mapeado no estudo original;51
+PA;0;5143;Não mapeado no estudo original;36
+PA;0;1424;Não mapeado no estudo original;26
+PA;0;1231;Não mapeado no estudo original;23
+PA;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);77
+PA;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);18
+PA;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);16
+PA;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);13
+PA;Gradiente 1;2515;Psicólogos e psicanalistas;7
+PA;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;5
+PA;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;520
+PA;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;253
+PA;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;202
+PA;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;159
+PA;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;142
+PA;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;85
+PA;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;40
+PA;Gradiente 2;5241;Vendedores em domicílio;36
+PA;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;24
+PA;Gradiente 2;4213;Cobradores e afins;22
+PA;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);7025
+PA;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;181
+PA;Gradiente 3;3517;Técnicos e Corretores de seguros;48
+PA;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;22
+PA;Gradiente 3;3545;Técnicos e Corretores de seguros;22
+PA;Gradiente 3;2523;Secretárias executivas e bilíngues;21
+PA;Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;6
+PA;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;6
+PA;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;5
+PA;Gradiente 3;3548;Técnicos em serviços de turismo e organização de eventos;4
+PA;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1356
+PA;Gradiente 4;2525;Profissionais de administração econômico-financeira;400
+PA;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);275
+PA;Gradiente 4;3532;Técnicos em operações e serviços bancários;67
+PA;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;40
+PA;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;5
+PA;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+PB;0;2532;Não mapeado no estudo original;611
+PB;0;1421;Não mapeado no estudo original;422
+PB;0;2142;Não mapeado no estudo original;28
+PB;0;5143;Não mapeado no estudo original;22
+PB;0;1231;Não mapeado no estudo original;12
+PB;0;7825;Não mapeado no estudo original;8
+PB;0;1422;Não mapeado no estudo original;7
+PB;0;7170;Não mapeado no estudo original;7
+PB;0;3121;Não mapeado no estudo original;6
+PB;0;2141;Não mapeado no estudo original;6
+PB;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);99
+PB;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);13
+PB;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);7
+PB;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);3
+PB;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;2
+PB;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;173
+PB;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;113
+PB;Gradiente 2;5241;Vendedores em domicílio;94
+PB;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;94
+PB;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;89
+PB;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;67
+PB;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;20
+PB;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;14
+PB;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);13
+PB;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;5
+PB;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2985
+PB;Gradiente 3;3517;Técnicos e Corretores de seguros;39
+PB;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;19
+PB;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;14
+PB;Gradiente 3;2523;Secretárias executivas e bilíngues;9
+PB;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;8
+PB;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;6
+PB;Gradiente 3;3545;Técnicos e Corretores de seguros;4
+PB;Gradiente 3;3514;Serventuários da justiça e afins;3
+PB;Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;2
+PB;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;552
+PB;Gradiente 4;2525;Profissionais de administração econômico-financeira;51
+PB;Gradiente 4;3532;Técnicos em operações e serviços bancários;34
+PB;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);23
+PB;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;11
+PB;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);10
+PB;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;3
+PB;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;3
+PE;0;2532;Não mapeado no estudo original;1718
+PE;0;1421;Não mapeado no estudo original;977
+PE;0;2410;Não mapeado no estudo original;312
+PE;0;5143;Não mapeado no estudo original;187
+PE;0;5151;Não mapeado no estudo original;146
+PE;0;3222;Não mapeado no estudo original;123
+PE;0;2142;Não mapeado no estudo original;94
+PE;0;2235;Não mapeado no estudo original;59
+PE;0;7170;Não mapeado no estudo original;55
+PE;0;3542;Não mapeado no estudo original;54
+PE;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);279
+PE;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);79
+PE;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);65
+PE;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);17
+PE;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;12
+PE;Gradiente 1;2515;Psicólogos e psicanalistas;4
+PE;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;2
+PE;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;1
+PE;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;523
+PE;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;503
+PE;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;330
+PE;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;327
+PE;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;254
+PE;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;183
+PE;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;100
+PE;Gradiente 2;5241;Vendedores em domicílio;96
+PE;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;71
+PE;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;41
+PE;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);6600
+PE;Gradiente 3;3517;Técnicos e Corretores de seguros;312
+PE;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;285
+PE;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;52
+PE;Gradiente 3;2523;Secretárias executivas e bilíngues;38
+PE;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;32
+PE;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;30
+PE;Gradiente 3;3545;Técnicos e Corretores de seguros;24
+PE;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;13
+PE;Gradiente 3;3514;Serventuários da justiça e afins;12
+PE;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1798
+PE;Gradiente 4;2525;Profissionais de administração econômico-financeira;353
+PE;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);175
+PE;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;118
+PE;Gradiente 4;3532;Técnicos em operações e serviços bancários;95
+PE;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);15
+PE;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;10
+PE;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;3
+PE;Gradiente 4;4231;Despachantes documentalistas e afins;1
+PI;0;2532;Não mapeado no estudo original;203
+PI;0;1421;Não mapeado no estudo original;161
+PI;0;5143;Não mapeado no estudo original;45
+PI;0;2142;Não mapeado no estudo original;18
+PI;0;3132;Não mapeado no estudo original;14
+PI;0;5174;Não mapeado no estudo original;13
+PI;0;2410;Não mapeado no estudo original;13
+PI;0;2332;Não mapeado no estudo original;9
+PI;0;1231;Não mapeado no estudo original;9
+PI;0;1422;Não mapeado no estudo original;8
+PI;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);228
+PI;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);50
+PI;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);14
+PI;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);7
+PI;Gradiente 1;2515;Psicólogos e psicanalistas;2
+PI;Gradiente 2;4213;Cobradores e afins;87
+PI;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;86
+PI;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;80
+PI;Gradiente 2;3912;Técnicos de planejamento e controle da produção;66
+PI;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;59
+PI;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;52
+PI;Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;49
+PI;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;45
+PI;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;35
+PI;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;31
+PI;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2196
+PI;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;85
+PI;Gradiente 3;3517;Técnicos e Corretores de seguros;45
+PI;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;25
+PI;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;13
+PI;Gradiente 3;3545;Técnicos e Corretores de seguros;11
+PI;Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;10
+PI;Gradiente 3;3514;Serventuários da justiça e afins;3
+PI;Gradiente 3;2523;Secretárias executivas e bilíngues;3
+PI;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;2
+PI;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;464
+PI;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);313
+PI;Gradiente 4;2525;Profissionais de administração econômico-financeira;62
+PI;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);41
+PI;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;20
+PI;Gradiente 4;3532;Técnicos em operações e serviços bancários;11
+PI;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+PI;Gradiente 4;4231;Despachantes documentalistas e afins;1
+PR;0;2532;Não mapeado no estudo original;7755
+PR;0;1421;Não mapeado no estudo original;2247
+PR;0;2345;Não mapeado no estudo original;292
+PR;0;2410;Não mapeado no estudo original;290
+PR;0;5143;Não mapeado no estudo original;285
+PR;0;1231;Não mapeado no estudo original;151
+PR;0;2142;Não mapeado no estudo original;120
+PR;0;3542;Não mapeado no estudo original;115
+PR;0;5141;Não mapeado no estudo original;91
+PR;0;1422;Não mapeado no estudo original;85
+PR;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);838
+PR;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;154
+PR;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);43
+PR;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);36
+PR;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);15
+PR;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;2
+PR;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+PR;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;2727
+PR;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;2128
+PR;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;1031
+PR;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;949
+PR;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;879
+PR;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;457
+PR;Gradiente 2;4213;Cobradores e afins;366
+PR;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;293
+PR;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;263
+PR;Gradiente 2;3511;Técnicos em contabilidade e em administração;214
+PR;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);15964
+PR;Gradiente 3;3517;Técnicos e Corretores de seguros;816
+PR;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;454
+PR;Gradiente 3;2111;Profissionais da matemática, atuários e estatísticos;261
+PR;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;168
+PR;Gradiente 3;2523;Secretárias executivas e bilíngues;154
+PR;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;129
+PR;Gradiente 3;3545;Técnicos e Corretores de seguros;102
+PR;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;85
+PR;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;82
+PR;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;8240
+PR;Gradiente 4;2525;Profissionais de administração econômico-financeira;2635
+PR;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);1452
+PR;Gradiente 4;3532;Técnicos em operações e serviços bancários;544
+PR;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);357
+PR;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;233
+PR;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;23
+PR;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;12
+PR;Gradiente 4;4231;Despachantes documentalistas e afins;3
+RJ;0;2532;Não mapeado no estudo original;6679
+RJ;0;1421;Não mapeado no estudo original;3145
+RJ;0;2410;Não mapeado no estudo original;956
+RJ;0;8622;Não mapeado no estudo original;846
+RJ;0;5199;Não mapeado no estudo original;724
+RJ;0;5143;Não mapeado no estudo original;572
+RJ;0;8623;Não mapeado no estudo original;509
+RJ;0;1115;Não mapeado no estudo original;431
+RJ;0;2032;Não mapeado no estudo original;368
+RJ;0;2143;Não mapeado no estudo original;363
+RJ;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);1490
+RJ;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);297
+RJ;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);152
+RJ;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);129
+RJ;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;46
+RJ;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;22
+RJ;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;17
+RJ;Gradiente 1;2515;Psicólogos e psicanalistas;17
+RJ;Gradiente 1;2133;Físicos e Profissionais das ciências atmosféricas/espaciais;5
+RJ;Gradiente 1;1225;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+RJ;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;4179
+RJ;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;1685
+RJ;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;1592
+RJ;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;1174
+RJ;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;1149
+RJ;Gradiente 2;5241;Vendedores em domicílio;532
+RJ;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;467
+RJ;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;405
+RJ;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;293
+RJ;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;208
+RJ;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);16468
+RJ;Gradiente 3;3517;Técnicos e Corretores de seguros;1370
+RJ;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;1049
+RJ;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;616
+RJ;Gradiente 3;2523;Secretárias executivas e bilíngues;455
+RJ;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;365
+RJ;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;181
+RJ;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;155
+RJ;Gradiente 3;3545;Técnicos e Corretores de seguros;102
+RJ;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;83
+RJ;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;6459
+RJ;Gradiente 4;2525;Profissionais de administração econômico-financeira;2297
+RJ;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);1528
+RJ;Gradiente 4;3532;Técnicos em operações e serviços bancários;591
+RJ;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);369
+RJ;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;357
+RJ;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;55
+RJ;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;14
+RJ;Gradiente 4;4231;Despachantes documentalistas e afins;2
+RN;0;2532;Não mapeado no estudo original;381
+RN;0;1421;Não mapeado no estudo original;235
+RN;0;5143;Não mapeado no estudo original;33
+RN;0;7170;Não mapeado no estudo original;26
+RN;0;5174;Não mapeado no estudo original;20
+RN;0;7825;Não mapeado no estudo original;16
+RN;0;2142;Não mapeado no estudo original;16
+RN;0;3951;Não mapeado no estudo original;15
+RN;0;7152;Não mapeado no estudo original;14
+RN;0;1231;Não mapeado no estudo original;12
+RN;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);70
+RN;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);20
+RN;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);9
+RN;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);8
+RN;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;128
+RN;Gradiente 2;5241;Vendedores em domicílio;104
+RN;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;103
+RN;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;93
+RN;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;61
+RN;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;37
+RN;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;27
+RN;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;9
+RN;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);9
+RN;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;6
+RN;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2559
+RN;Gradiente 3;3517;Técnicos e Corretores de seguros;38
+RN;Gradiente 3;2523;Secretárias executivas e bilíngues;20
+RN;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;16
+RN;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;15
+RN;Gradiente 3;3545;Técnicos e Corretores de seguros;10
+RN;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;6
+RN;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;2
+RN;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;1
+RN;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;1
+RN;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;559
+RN;Gradiente 4;2525;Profissionais de administração econômico-financeira;46
+RN;Gradiente 4;3532;Técnicos em operações e serviços bancários;18
+RN;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;11
+RN;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);11
+RN;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);4
+RN;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;4
+RN;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
+RN;Gradiente 4;4231;Despachantes documentalistas e afins;1
+RO;0;2532;Não mapeado no estudo original;700
+RO;0;1421;Não mapeado no estudo original;300
+RO;0;9144;Não mapeado no estudo original;96
+RO;0;5141;Não mapeado no estudo original;84
+RO;0;5143;Não mapeado no estudo original;76
+RO;0;9921;Não mapeado no estudo original;28
+RO;0;2410;Não mapeado no estudo original;24
+RO;0;1231;Não mapeado no estudo original;21
+RO;0;2527;Não mapeado no estudo original;18
+RO;0;3542;Não mapeado no estudo original;15
+RO;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);62
+RO;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);54
+RO;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);5
+RO;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);4
+RO;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;445
+RO;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;248
+RO;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;238
+RO;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;129
+RO;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;116
+RO;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;52
+RO;Gradiente 2;4213;Cobradores e afins;32
+RO;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;31
+RO;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);30
+RO;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;21
+RO;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);1949
+RO;Gradiente 3;3517;Técnicos e Corretores de seguros;178
+RO;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;68
+RO;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;28
+RO;Gradiente 3;2523;Secretárias executivas e bilíngues;27
+RO;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;20
+RO;Gradiente 3;3514;Serventuários da justiça e afins;17
+RO;Gradiente 3;3545;Técnicos e Corretores de seguros;16
+RO;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;10
+RO;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;6
+RO;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;1283
+RO;Gradiente 4;2525;Profissionais de administração econômico-financeira;254
+RO;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);84
+RO;Gradiente 4;3532;Técnicos em operações e serviços bancários;76
+RO;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;64
+RO;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;9
+RO;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);3
+RR;0;2532;Não mapeado no estudo original;107
+RR;0;1421;Não mapeado no estudo original;28
+RR;0;2533;Não mapeado no estudo original;24
+RR;0;5143;Não mapeado no estudo original;9
+RR;0;2142;Não mapeado no estudo original;5
+RR;0;5191;Não mapeado no estudo original;4
+RR;0;2410;Não mapeado no estudo original;3
+RR;0;5134;Não mapeado no estudo original;3
+RR;0;1231;Não mapeado no estudo original;3
+RR;0;9921;Não mapeado no estudo original;3
+RR;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);4
+RR;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);3
+RR;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);2
+RR;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);1
+RR;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;35
+RR;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;14
+RR;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;9
+RR;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;9
+RR;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;4
+RR;Gradiente 2;4213;Cobradores e afins;3
+RR;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;1
+RR;Gradiente 2;5241;Vendedores em domicílio;1
+RR;Gradiente 2;3511;Técnicos em contabilidade e em administração;1
+RR;Gradiente 2;2531;Relações públicas, publicidade, mercado e negócios;1
+RR;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);442
+RR;Gradiente 3;3517;Técnicos e Corretores de seguros;9
+RR;Gradiente 3;2523;Secretárias executivas e bilíngues;6
+RR;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;6
+RR;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;4
+RR;Gradiente 3;3545;Técnicos e Corretores de seguros;1
+RR;Gradiente 3;3548;Técnicos em serviços de turismo e organização de eventos;1
+RR;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;1
+RR;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;49
+RR;Gradiente 4;3532;Técnicos em operações e serviços bancários;11
+RR;Gradiente 4;2525;Profissionais de administração econômico-financeira;9
+RR;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);2
+RR;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;1
+RS;0;2532;Não mapeado no estudo original;5902
+RS;0;1421;Não mapeado no estudo original;1639
+RS;0;3144;Não mapeado no estudo original;966
+RS;0;5143;Não mapeado no estudo original;308
+RS;0;1210;Não mapeado no estudo original;216
+RS;0;2410;Não mapeado no estudo original;183
+RS;0;1231;Não mapeado no estudo original;134
+RS;0;2142;Não mapeado no estudo original;130
+RS;0;1422;Não mapeado no estudo original;96
+RS;0;3542;Não mapeado no estudo original;77
+RS;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);402
+RS;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);187
+RS;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);46
+RS;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);30
+RS;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;10
+RS;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;5
+RS;Gradiente 1;2618;Fotógrafos profissionais;4
+RS;Gradiente 1;2515;Psicólogos e psicanalistas;3
+RS;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;1873
+RS;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;1264
+RS;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;971
+RS;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;868
+RS;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;736
+RS;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;328
+RS;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;300
+RS;Gradiente 2;4213;Cobradores e afins;271
+RS;Gradiente 2;5241;Vendedores em domicílio;244
+RS;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;218
+RS;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);22412
+RS;Gradiente 3;3517;Técnicos e Corretores de seguros;777
+RS;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;371
+RS;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;200
+RS;Gradiente 3;2523;Secretárias executivas e bilíngues;182
+RS;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;104
+RS;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;102
+RS;Gradiente 3;3514;Serventuários da justiça e afins;78
+RS;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;66
+RS;Gradiente 3;3545;Técnicos e Corretores de seguros;51
+RS;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;6859
+RS;Gradiente 4;2525;Profissionais de administração econômico-financeira;2019
+RS;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);680
+RS;Gradiente 4;3532;Técnicos em operações e serviços bancários;405
+RS;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;285
+RS;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);262
+RS;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;40
+RS;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;18
+SC;0;2532;Não mapeado no estudo original;6214
+SC;0;1421;Não mapeado no estudo original;1376
+SC;0;5143;Não mapeado no estudo original;415
+SC;0;2410;Não mapeado no estudo original;203
+SC;0;1231;Não mapeado no estudo original;196
+SC;0;1210;Não mapeado no estudo original;83
+SC;0;1422;Não mapeado no estudo original;82
+SC;0;2031;Não mapeado no estudo original;63
+SC;0;2142;Não mapeado no estudo original;53
+SC;0;5141;Não mapeado no estudo original;52
+SC;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);428
+SC;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);132
+SC;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);28
+SC;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);9
+SC;Gradiente 1;2515;Psicólogos e psicanalistas;8
+SC;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;2
+SC;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;1
+SC;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1
+SC;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;1985
+SC;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;1347
+SC;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;921
+SC;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;580
+SC;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;554
+SC;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;346
+SC;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;265
+SC;Gradiente 2;4213;Cobradores e afins;239
+SC;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;209
+SC;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);194
+SC;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);12118
+SC;Gradiente 3;3517;Técnicos e Corretores de seguros;648
+SC;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;273
+SC;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;185
+SC;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;122
+SC;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;112
+SC;Gradiente 3;2523;Secretárias executivas e bilíngues;109
+SC;Gradiente 3;3514;Serventuários da justiça e afins;51
+SC;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;44
+SC;Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;38
+SC;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;7360
+SC;Gradiente 4;2525;Profissionais de administração econômico-financeira;1912
+SC;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);844
+SC;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);476
+SC;Gradiente 4;3532;Técnicos em operações e serviços bancários;288
+SC;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;235
+SC;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;19
+SC;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;3
+SE;0;2532;Não mapeado no estudo original;240
+SE;0;1421;Não mapeado no estudo original;124
+SE;0;7632;Não mapeado no estudo original;28
+SE;0;5143;Não mapeado no estudo original;26
+SE;0;4141;Não mapeado no estudo original;17
+SE;0;2142;Não mapeado no estudo original;14
+SE;0;1426;Não mapeado no estudo original;13
+SE;0;2410;Não mapeado no estudo original;11
+SE;0;1210;Não mapeado no estudo original;9
+SE;0;7842;Não mapeado no estudo original;7
+SE;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);65
+SE;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);14
+SE;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);4
+SE;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);4
+SE;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;91
+SE;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;77
+SE;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;63
+SE;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;51
+SE;Gradiente 2;5241;Vendedores em domicílio;36
+SE;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;29
+SE;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;18
+SE;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;9
+SE;Gradiente 2;3511;Técnicos em contabilidade e em administração;6
+SE;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);6
+SE;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);2334
+SE;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;70
+SE;Gradiente 3;3517;Técnicos e Corretores de seguros;29
+SE;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;20
+SE;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;13
+SE;Gradiente 3;2523;Secretárias executivas e bilíngues;8
+SE;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;3
+SE;Gradiente 3;3545;Técnicos e Corretores de seguros;2
+SE;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;1
+SE;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;527
+SE;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);207
+SE;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);42
+SE;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;19
+SE;Gradiente 4;2525;Profissionais de administração econômico-financeira;17
+SE;Gradiente 4;3532;Técnicos em operações e serviços bancários;9
+SE;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;2
+SP;0;2532;Não mapeado no estudo original;34978
+SP;0;1421;Não mapeado no estudo original;19221
+SP;0;2410;Não mapeado no estudo original;3886
+SP;0;2533;Não mapeado no estudo original;2654
+SP;0;5143;Não mapeado no estudo original;2027
+SP;0;1231;Não mapeado no estudo original;1905
+SP;0;1422;Não mapeado no estudo original;1225
+SP;0;3542;Não mapeado no estudo original;1094
+SP;0;1426;Não mapeado no estudo original;1027
+SP;0;2032;Não mapeado no estudo original;916
+SP;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);3037
+SP;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);483
+SP;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);276
+SP;Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;249
+SP;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);183
+SP;Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;67
+SP;Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;41
+SP;Gradiente 1;2515;Psicólogos e psicanalistas;23
+SP;Gradiente 1;2618;Fotógrafos profissionais;10
+SP;Gradiente 1;2133;Físicos e Profissionais das ciências atmosféricas/espaciais;2
+SP;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;37510
+SP;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;15588
+SP;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;11546
+SP;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;8693
+SP;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;5185
+SP;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;4840
+SP;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;4272
+SP;Gradiente 2;5241;Vendedores em domicílio;2450
+SP;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;2274
+SP;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;1733
+SP;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);53896
+SP;Gradiente 3;3517;Técnicos e Corretores de seguros;8705
+SP;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;4467
+SP;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;2648
+SP;Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;2580
+SP;Gradiente 3;2122;Engenheiros de computação e Administradores de TI;2459
+SP;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;2245
+SP;Gradiente 3;2111;Profissionais da matemática, atuários e estatísticos;1297
+SP;Gradiente 3;2523;Secretárias executivas e bilíngues;1261
+SP;Gradiente 3;3514;Serventuários da justiça e afins;1120
+SP;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);31985
+SP;Gradiente 4;2525;Profissionais de administração econômico-financeira;31610
+SP;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;31544
+SP;Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);2704
+SP;Gradiente 4;3532;Técnicos em operações e serviços bancários;2558
+SP;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;1650
+SP;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;154
+SP;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;33
+SP;Gradiente 4;4231;Despachantes documentalistas e afins;7
+TO;0;2532;Não mapeado no estudo original;314
+TO;0;1421;Não mapeado no estudo original;172
+TO;0;5143;Não mapeado no estudo original;45
+TO;0;7170;Não mapeado no estudo original;16
+TO;0;7151;Não mapeado no estudo original;15
+TO;0;3542;Não mapeado no estudo original;15
+TO;0;7825;Não mapeado no estudo original;13
+TO;0;5174;Não mapeado no estudo original;12
+TO;0;2410;Não mapeado no estudo original;12
+TO;0;1422;Não mapeado no estudo original;10
+TO;Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);30
+TO;Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);17
+TO;Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);8
+TO;Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);6
+TO;Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;174
+TO;Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;57
+TO;Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;54
+TO;Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;39
+TO;Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;24
+TO;Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;14
+TO;Gradiente 2;2521;Administradores e Profissionais de recursos humanos;10
+TO;Gradiente 2;2524;Administradores e Profissionais de recursos humanos;5
+TO;Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);5
+TO;Gradiente 2;1425;Diretores e Gerentes de serviços de informática;4
+TO;Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);1336
+TO;Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;33
+TO;Gradiente 3;2523;Secretárias executivas e bilíngues;21
+TO;Gradiente 3;3545;Técnicos e Corretores de seguros;14
+TO;Gradiente 3;3517;Técnicos e Corretores de seguros;14
+TO;Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;9
+TO;Gradiente 3;4241;Entrevistadores e recenseadores;4
+TO;Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;3
+TO;Gradiente 3;2123;Engenheiros de computação e Administradores de TI;3
+TO;Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;2
+TO;Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;238
+TO;Gradiente 4;2525;Profissionais de administração econômico-financeira;41
+TO;Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;28
+TO;Gradiente 4;3532;Técnicos em operações e serviços bancários;18
+TO;Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);13
+TO;Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;1
+TO;Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;1
