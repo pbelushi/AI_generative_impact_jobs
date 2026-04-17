@@ -65,8 +65,14 @@ resumo_impacto.to_csv(caminho_resumo, index=False, sep=';', encoding='utf-8-sig'
 # Levantar as 10 principais ocupações por Gradiente
 df_ordenado = df_impacto.sort_values(by=['Gradiente', 'total_vinculos_ativos'], ascending=[True, False])
 top_10_por_gradiente = df_ordenado.groupby('Gradiente').head(10)
-colunas_para_salvar = ['Gradiente', 'Código CBO', 'total_vinculos_ativos'] 
+
+# MUDANÇA: 'Título da Família Ocupacional' adicionado à lista
+colunas_para_salvar = ['Gradiente', 'Código CBO', 'Título da Família Ocupacional', 'total_vinculos_ativos'] 
 top_10_limpo = top_10_por_gradiente[colunas_para_salvar]
+
+# OPCIONAL: Como os CBOs do Gradiente 0 não estavam na base original, 
+# o título deles ficará vazio. Podemos preencher com um aviso:
+top_10_limpo['Título da Família Ocupacional'] = top_10_limpo['Título da Família Ocupacional'].fillna('Não mapeado no estudo original')
 
 caminho_top10 = PASTA_DADOS / "Top_10_CBOs_por_Gradiente_bancarios.csv"
 top_10_limpo.to_csv(caminho_top10, index=False, sep=';', encoding='utf-8-sig')
