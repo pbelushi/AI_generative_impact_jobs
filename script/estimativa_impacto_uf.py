@@ -50,14 +50,21 @@ df_rais_estados['codigo_cbo_4'] = (
     .str[:4] # <--- O SEGREDO AQUI: Pegamos apenas nos 4 primeiros dígitos!
 )
 
-# 4. Fazer o cruzamento (Merge) - O resto do código continua igual...
+# 4. Fazer o cruzamento (Merge)
+# MUDANÇA: 'how' alterado de 'left' para 'right'
 df_impacto = pd.merge(
     df_classificacao, 
     df_rais_estados, 
     left_on='Código CBO', 
     right_on='codigo_cbo_4', 
-    how='left' 
+    how='right' 
 )
+
+# MUDANÇA: Atribuir Gradiente 0 para CBOs que não estavam na classificação original
+df_impacto['Gradiente'] = df_impacto['Gradiente'].fillna(0)
+
+# MUDANÇA: Preencher a coluna Código CBO para não ficar nula
+df_impacto['Código CBO'] = df_impacto['Código CBO'].fillna(df_impacto['codigo_cbo_4'])
 
 df_impacto['total_vinculos_ativos'] = df_impacto['total_vinculos_ativos'].fillna(0)
 

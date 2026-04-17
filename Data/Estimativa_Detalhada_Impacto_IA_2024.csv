@@ -1,88 +1,630 @@
 ﻿Gradiente;Código CBO;Título da Família Ocupacional;Correlato ISCO-08;codigo_cbo_4;total_vinculos_ativos
-Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);2513 - Web and Multimedia Developers;2124;472492
-Gradiente 4;2525;Profissionais de administração econômico-financeira;2413 - Financial Analysts;2525;128135
-Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;4131 - Typists and Word Processing Operators;3515;62049
-Gradiente 4;3532;Técnicos em operações e serviços bancários;3311 - Securities and Finance Dealers;3532;10757
 Gradiente 4;4110;Agentes, assistentes e auxiliares administrativos;4110 - General Office Clerks / 4419;4110;4762237
-Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;4132 - Data Entry Clerks;4121;38101
-Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;4311 - Accounting Clerks / 4313;4131;319518
-Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);5244 - Contact Centre Salespersons;4223;462686
-Gradiente 4;4231;Despachantes documentalistas e afins;4419 - Clerical Support Workers NEC;4231;12648
-Gradiente 3;2111;Profissionais da matemática, atuários e estatísticos;2120 - Mathematicians, Actuaries and Statisticians;2111;111266
-Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;2120 - Mathematicians, Actuaries and Statisticians;2112;6389
-Gradiente 3;2122;Engenheiros de computação e Administradores de TI;2512 / 2521 - Software Developers / DB Admins;2122;21805
-Gradiente 3;2123;Engenheiros de computação e Administradores de TI;2512 / 2521 - Software Developers / DB Admins;2123;45547
-Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;2631 / 2411 - Economists / Accountants;2512;62953
-Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;2631 / 2411 - Economists / Accountants;2522;199268
-Gradiente 3;2523;Secretárias executivas e bilíngues;3343 - Administrative and Exec. Secretaries;2523;193083
-Gradiente 3;2611;Profissionais do jornalismo e Editores;2642 / 2641 - Journalists / Authors;2611;36859
-Gradiente 3;2616;Profissionais do jornalismo e Editores;2642 / 2641 - Journalists / Authors;2616;2969
-Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;2622 / 2643 - Librarians / Translators;2612;30999
-Gradiente 3;2614;Profissionais da informação (Biblio.), Tradutores e Intérpretes;2622 / 2643 - Librarians / Translators;2614;8034
-Gradiente 3;2615;Profissionais da escrita (Autores, redatores, críticos);2641 - Authors and Related Writers;2615;2586
-Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;2514 / 3514 - App Programmers / Web Techs;3171;102240
-Gradiente 3;3422;Despachantes aduaneiros;3331 - Clearing and Forwarding Agents;3422;4466
-Gradiente 3;3514;Serventuários da justiça e afins;3342 - Legal Secretaries;3514;209437
-Gradiente 3;3517;Técnicos e Corretores de seguros;3321 - Insurance Representatives;3517;44845
-Gradiente 3;3545;Técnicos e Corretores de seguros;3321 - Insurance Representatives;3545;1764
-Gradiente 3;3548;Técnicos em serviços de turismo e organização de eventos;4221 - Travel Consultants and Clerks;3548;40151
-Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);4211 - Bank Tellers and Related Clerks;4132;286405
-Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;4226 / 4223 - Receptionists / Switchboard Ops;4221;837693
-Gradiente 3;4222;Recepcionistas em geral e Operadores de telefonia;4226 / 4223 - Receptionists / Switchboard Ops;4222;51860
-Gradiente 3;4241;Entrevistadores e recenseadores;4227 - Survey and Market Research Interviewers;4241;11642
-Gradiente 2;1224;Diretores e Gerentes de operações comerciais (Varejo/Atacado);1420 - Retail and Wholesale Trade Managers;1224;1995
-Gradiente 2;1414;Diretores e Gerentes de operações comerciais (Varejo/Atacado);1420 - Retail and Wholesale Trade Managers;1414;248600
-Gradiente 2;1227;Diretores e Gerentes em instituições de interm. financeira;1346 - Financial and Insurance Branch Managers;1227;2686
-Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;1346 - Financial and Insurance Branch Managers;1417;34818
-Gradiente 2;1233;Diretores e Gerentes de comercialização e marketing;1221 - Sales and Marketing Managers;1233;16211
-Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;1221 - Sales and Marketing Managers;1423;636425
-Gradiente 2;1236;Diretores e Gerentes de serviços de informática;1330 - ICT Service Managers;1236;4167
-Gradiente 2;1425;Diretores e Gerentes de serviços de informática;1330 - ICT Service Managers;1425;83233
-Gradiente 2;2511;Pesquisadores sociais (Sociólogos, Antropólogos) e Filósofos;2632 / 2633 - Sociologists / Philosophers;2511;1942
-Gradiente 2;2514;Pesquisadores sociais (Sociólogos, Antropólogos) e Filósofos;2632 / 2633 - Sociologists / Philosophers;2514;20
-Gradiente 2;2513;Profissionais em pesquisa e análise geográfica;2165 - Cartographers and Surveyors;2513;1891
-Gradiente 2;2521;Administradores e Profissionais de recursos humanos;2421 / 2423 - Management Analysts / HR Profs.;2521;345947
-Gradiente 2;2524;Administradores e Profissionais de recursos humanos;2421 / 2423 - Management Analysts / HR Profs.;2524;136032
-Gradiente 2;2531;Relações públicas, publicidade, mercado e negócios;2432 - Public Relations Professionals;2531;40336
-Gradiente 2;2541;Auditor fiscal da receita federal;3352 - Government Tax and Excise Officials;2541;16011
-Gradiente 2;2542;Auditor fiscal da previdência social;3352 - Government Tax and Excise Officials;2542;236
-Gradiente 2;2543;Auditor-fiscal do trabalho;3352 - Government Tax and Excise Officials;2543;14309
-Gradiente 2;2544;Fiscal de tributos estadual ou municipal;3352 - Government Tax and Excise Officials;2544;38205
-Gradiente 2;2613;Arquivistas e museólogos;2621 - Archivists and Curators;2613;6037
-Gradiente 2;2617;Locutores, comentaristas e repórteres de rádio e televisão;2656 - Announcers on Radio and Television;2617;14338
-Gradiente 2;2624;Artistas visuais e desenhistas industriais (Designers);2166 - Graphic and Multimedia Designers;2624;50372
-Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);3512 - ICT User Support Technicians;3172;119154
-Gradiente 2;3421;Especialistas em logística de transportes;4323 - Transport Clerks;3421;107153
-Gradiente 2;3511;Técnicos em contabilidade e em administração;3313 / 3339 - Accounting Assoc. / Bus. Services;3511;25670
-Gradiente 2;3513;Técnicos em contabilidade e em administração;3313 / 3339 - Accounting Assoc. / Bus. Services;3513;56824
-Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;3322 - Commercial Sales Representatives;3541;489243
-Gradiente 2;3547;Técnicos de vendas especializadas e Rep. comerciais autônomos;3322 - Commercial Sales Representatives;3547;4124
-Gradiente 2;3543;Analistas de comércio exterior e Leiloeiros/avaliadores;3324 / 3315 - Trade Brokers / Valuers;3543;22757
-Gradiente 2;3544;Analistas de comércio exterior e Leiloeiros/avaliadores;3324 / 3315 - Trade Brokers / Valuers;3544;4349
-Gradiente 2;3711;Técnicos em biblioteconomia;4411 - Library Clerks;3711;12219
-Gradiente 2;3722;Operadores de rede de teleprocessamento e afins;3511 - ICT Operations Technicians;3722;15170
-Gradiente 2;3911;Técnicos de planejamento e controle da produção;4322 - Production Clerks;3911;202061
-Gradiente 2;3912;Técnicos de planejamento e controle da produção;4322 - Production Clerks;3912;263146
-Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;3341 - Office Supervisors;4101;513572
-Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;3341 - Office Supervisors;4102;123817
-Gradiente 2;4142;Apontadores e conferentes;4322 - Production Clerks;4142;264418
-Gradiente 2;4152;Carteiros e operadores de triagem de serviços postais;4412 - Mail Carriers and Sorting Clerks;4152;71809
-Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;4229 - Client Information Workers NEC;4201;91925
-Gradiente 2;4212;Coletadores de apostas e de jogos;4212 - Bookmakers and Croupiers;4212;20430
-Gradiente 2;4213;Cobradores e afins;4214 - Debt Collectors and Related Workers;4213;85380
-Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;3322 - Commercial Sales Representatives;5201;172554
-Gradiente 2;5241;Vendedores em domicílio;5243 - Door-to-door Salespersons;5241;50954
-Gradiente 1;1225;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1411 - Hotel Managers;1225;1346
-Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1411 - Hotel Managers;1415;82220
-Gradiente 1;2131;Físicos e Profissionais das ciências atmosféricas/espaciais;2111 / 2112 - Physicists / Meteorologists;2131;1073
-Gradiente 1;2133;Físicos e Profissionais das ciências atmosféricas/espaciais;2111 / 2112 - Physicists / Meteorologists;2133;341
-Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;2351 - Education Methods Specialists;2394;304486
-Gradiente 1;2515;Psicólogos e psicanalistas;2634 - Psychologists;2515;100098
-Gradiente 1;2618;Fotógrafos profissionais;3431 - Photographers;2618;4033
-Gradiente 1;3712;Técnicos em museologia e afins;3433 - Gallery and Museum Technicians;3712;437
-Gradiente 1;3713;Técnicos em artes gráficas;7321 - Pre-press Technicians;3713;1944
-Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);9621 - Messengers, Package Deliverers;4122;105683
-Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;4415 - Filing and Copying Clerks;4151;19374
-Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);5230 / 5223 - Cashiers / Shop Sales Assistants;4211;1086837
 Gradiente 1;5211;Caixas, bilheteiros e Operadores do comércio (Balconistas);5230 / 5223 - Cashiers / Shop Sales Assistants;5211;4299964
+0;5143;;;5143;2584166
+0;7842;;;7842;1347462
+0;4141;;;4141;1282761
+0;7825;;;7825;1259406
+0;3222;;;3222;1202811
+0;5174;;;5174;1183918
+0;2312;;;2312;1102968
+Gradiente 1;4211;Caixas, bilheteiros e Operadores do comércio (Balconistas);5230 / 5223 - Cashiers / Shop Sales Assistants;4211;1086837
+0;3312;;;3312;1012985
+0;5134;;;5134;883762
+0;5142;;;5142;838564
+Gradiente 3;4221;Recepcionistas em geral e Operadores de telefonia;4226 / 4223 - Receptionists / Switchboard Ops;4221;837693
+0;5173;;;5173;785821
+0;7170;;;7170;714185
+0;7832;;;7832;697856
+0;1114;;;1114;691063
+Gradiente 2;1423;Diretores e Gerentes de comercialização e marketing;1221 - Sales and Marketing Managers;1423;636425
+0;5132;;;5132;631322
+0;5135;;;5135;557111
+0;3311;;;3311;532712
 Gradiente 1;7823;Motoristas de veículos de pequeno e médio porte (Táxi);8322 - Car, Taxi and Van Drivers;7823;531451
+Gradiente 2;4101;Supervisores administrativos e de serviços financeiros;3341 - Office Supervisors;4101;513572
+Gradiente 2;3541;Técnicos de vendas especializadas e Rep. comerciais autônomos;3322 - Commercial Sales Representatives;3541;489243
+Gradiente 4;2124;Analistas de Tecnologia da Informação (Web e Multimídia);2513 - Web and Multimedia Developers;2124;472492
+0;2235;;;2235;466430
+0;2321;;;2321;466014
+0;8485;;;8485;464409
+Gradiente 4;4223;Operadores de telemarketing (Ativo, receptivo e técnico);5244 - Contact Centre Salespersons;4223;462686
+0;1421;;;1421;460858
+0;7152;;;7152;453709
+0;5151;;;5151;413782
+0;6210;;;6210;382447
+0;7824;;;7824;377086
+0;2345;;;2345;356058
+0;5141;;;5141;345957
+Gradiente 2;2521;Administradores e Profissionais de recursos humanos;2421 / 2423 - Management Analysts / HR Profs.;2521;345947
+Gradiente 4;4131;Auxiliares de contabilidade, folha de pagamento e faturamento;4311 - Accounting Clerks / 4313;4131;319518
+0;1031;;;1031;306265
+Gradiente 1;2394;Programadores, avaliadores e orientadores de ensino;2351 - Education Methods Specialists;2394;304486
+0;9144;;;9144;301151
+0;2313;;;2313;291481
+0;6410;;;6410;290778
+Gradiente 3;4132;Escriturários de serviços bancários (Caixas, compensadores);4211 - Bank Tellers and Related Clerks;4132;286405
+0;2311;;;2311;285024
+0;6220;;;6220;281812
+Gradiente 2;4142;Apontadores e conferentes;4322 - Production Clerks;4142;264418
+Gradiente 2;3912;Técnicos de planejamento e controle da produção;4322 - Production Clerks;3912;263146
+0;8621;;;8621;262101
+0;3341;;;3341;256919
+0;7632;;;7632;249219
+Gradiente 2;1414;Diretores e Gerentes de operações comerciais (Varejo/Atacado);1420 - Retail and Wholesale Trade Managers;1414;248600
+0;7841;;;7841;245408
+0;9113;;;9113;244628
+0;2251;;;2251;243512
+0;7243;;;7243;229386
+0;7151;;;7151;216613
+Gradiente 3;3514;Serventuários da justiça e afins;3342 - Legal Secretaries;3514;209437
+0;7822;;;7822;207106
+Gradiente 2;3911;Técnicos de planejamento e controle da produção;4322 - Production Clerks;3911;202061
+Gradiente 3;2522;Economistas, Contadores, Auditores e Peritos contábeis;2631 / 2411 - Economists / Accountants;2522;199268
+0;8483;;;8483;196902
+0;2234;;;2234;196552
+Gradiente 3;2523;Secretárias executivas e bilíngues;3343 - Administrative and Exec. Secretaries;2523;193083
+0;5172;;;5172;190117
+Gradiente 2;5201;Supervisores de vendas e de prestação de serviços;3322 - Commercial Sales Representatives;5201;172554
+0;7321;;;7321;168059
+0;7212;;;7212;167723
+0;7155;;;7155;162111
+0;5191;;;5191;159305
+0;7156;;;7156;156317
+0;5199;;;5199;152427
+0;9922;;;9922;150061
+0;7244;;;7244;147433
+0;5162;;;5162;141553
+0;6221;;;6221;138198
+0;7102;;;7102;136484
+Gradiente 2;2524;Administradores e Profissionais de recursos humanos;2421 / 2423 - Management Analysts / HR Profs.;2524;136032
+0;7311;;;7311;130819
+0;3132;;;3132;129186
+0;3516;;;3516;128664
+0;2121;;;2121;128262
+0;3224;;;3224;128159
+0;2410;;;2410;128158
+Gradiente 4;2525;Profissionais de administração econômico-financeira;2413 - Financial Analysts;2525;128135
+0;3522;;;3522;125181
+0;3331;;;3331;125160
+Gradiente 2;4102;Supervisores administrativos e de serviços financeiros;3341 - Office Supervisors;4102;123817
+0;7242;;;7242;122091
+0;6231;;;6231;121431
+0;3131;;;3131;121245
+0;2120;;;2120;119607
+Gradiente 2;3172;Operadores de monitoração de computadores (Helpdesk);3512 - ICT User Support Technicians;3172;119154
+0;5152;;;5152;112256
+0;9511;;;9511;111743
+Gradiente 3;2111;Profissionais da matemática, atuários e estatísticos;2120 - Mathematicians, Actuaries and Statisticians;2111;111266
+0;2532;;;2532;110411
+0;2516;;;2516;109136
+0;5153;;;5153;108885
+0;3542;;;3542;108162
+Gradiente 2;3421;Especialistas em logística de transportes;4323 - Transport Clerks;3421;107153
+0;5133;;;5133;105975
+Gradiente 1;4122;Contínuos (Office-boys / Mensageiros);9621 - Messengers, Package Deliverers;4122;105683
+0;7241;;;7241;102471
+Gradiente 3;3171;Técnicos de desenvolvimento de sistemas e aplicações;2514 / 3514 - App Programmers / Web Techs;3171;102240
+0;7631;;;7631;100232
+0;2241;;;2241;100123
+Gradiente 1;2515;Psicólogos e psicanalistas;2634 - Psychologists;2515;100098
+0;1412;;;1412;92726
+0;7166;;;7166;91958
+Gradiente 2;4201;Supervisores de atendimento ao público e de pesquisa;4229 - Client Information Workers NEC;4201;91925
+0;5112;;;5112;91519
+0;2236;;;2236;90993
+0;8117;;;8117;90726
+0;7640;;;7640;88480
+0;6225;;;6225;88178
+0;7233;;;7233;86450
+0;5163;;;5163;85478
+Gradiente 2;4213;Cobradores e afins;4214 - Debt Collectors and Related Workers;4213;85380
+0;7711;;;7711;85014
+Gradiente 2;1425;Diretores e Gerentes de serviços de informática;1330 - ICT Service Managers;1425;83233
+0;3141;;;3141;82582
+Gradiente 1;1415;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1411 - Hotel Managers;1415;82220
+0;8131;;;8131;80829
+0;3241;;;3241;76562
+0;2142;;;2142;74773
+0;1030;;;1030;73706
+0;2232;;;2232;72568
+Gradiente 2;4152;Carteiros e operadores de triagem de serviços postais;4412 - Mail Carriers and Sorting Clerks;4152;71809
+0;7153;;;7153;71189
+0;3121;;;3121;70537
+0;7741;;;7741;69752
+0;5136;;;5136;68635
+0;1231;;;1231;68404
+0;6233;;;6233;68230
+0;8414;;;8414;68135
+0;2237;;;2237;66987
+0;2392;;;2392;66899
+0;3133;;;3133;65568
+0;3714;;;3714;63839
+0;2331;;;2331;63834
+Gradiente 3;2512;Economistas, Contadores, Auditores e Peritos contábeis;2631 / 2411 - Economists / Accountants;2512;62953
+0;3242;;;3242;62784
+0;2346;;;2346;62142
+Gradiente 4;3515;Técnicos em secretariado, taquígrafos e estenotipistas;4131 - Typists and Word Processing Operators;3515;62049
+0;6321;;;6321;60270
+0;1422;;;1422;59789
+0;2332;;;2332;57300
+0;3518;;;3518;57271
+Gradiente 2;3513;Técnicos em contabilidade e em administração;3313 / 3339 - Accounting Assoc. / Bus. Services;3513;56824
+0;7214;;;7214;56710
+0;2527;;;2527;56456
+0;7821;;;7821;56103
+0;3011;;;3011;54961
+0;8214;;;8214;54842
+0;3423;;;3423;53939
+0;2149;;;2149;53913
+0;6201;;;6201;53196
+0;1416;;;1416;52891
+0;1313;;;1313;51887
+Gradiente 3;4222;Recepcionistas em geral e Operadores de telefonia;4226 / 4223 - Receptionists / Switchboard Ops;4222;51860
+0;9513;;;9513;51624
+0;5171;;;5171;51390
+Gradiente 2;5241;Vendedores em domicílio;5243 - Door-to-door Salespersons;5241;50954
+0;9131;;;9131;50623
+Gradiente 2;2624;Artistas visuais e desenhistas industriais (Designers);2166 - Graphic and Multimedia Designers;2624;50372
+0;7662;;;7662;48852
+0;5101;;;5101;48751
+0;7245;;;7245;48391
+0;3211;;;3211;47663
+0;8418;;;8418;47282
+0;9921;;;9921;46339
+0;7252;;;7252;45901
+Gradiente 3;2123;Engenheiros de computação e Administradores de TI;2512 / 2521 - Software Developers / DB Admins;2123;45547
+0;6230;;;6230;45546
+0;3144;;;3144;45460
+0;7255;;;7255;45296
+Gradiente 3;3517;Técnicos e Corretores de seguros;3321 - Insurance Representatives;3517;44845
+0;3111;;;3111;44627
+0;1021;;;1021;44056
+0;7641;;;7641;43993
+0;9913;;;9913;43596
+0;7663;;;7663;41212
+0;7112;;;7112;40485
+Gradiente 2;2531;Relações públicas, publicidade, mercado e negócios;2432 - Public Relations Professionals;2531;40336
+Gradiente 3;3548;Técnicos em serviços de turismo e organização de eventos;4221 - Travel Consultants and Clerks;3548;40151
+0;5193;;;5193;40062
+0;7313;;;7313;39512
+0;7251;;;7251;38764
+Gradiente 2;2544;Fiscal de tributos estadual ou municipal;3352 - Government Tax and Excise Officials;2544;38205
+0;7633;;;7633;38189
+Gradiente 4;4121;Datilógrafos, digitadores e operadores de transmissão de dados;4132 - Data Entry Clerks;4121;38101
+0;9101;;;9101;37896
+0;1427;;;1427;37482
+0;7630;;;7630;36945
+Gradiente 3;2611;Profissionais do jornalismo e Editores;2642 / 2641 - Journalists / Authors;2611;36859
+0;7610;;;7610;35917
+0;9112;;;9112;34841
+Gradiente 2;1417;Diretores e Gerentes em instituições de interm. financeira;1346 - Financial and Insurance Branch Managers;1417;34818
+0;8401;;;8401;34611
+0;3251;;;3251;34278
+0;7250;;;7250;34241
+0;2143;;;2143;34154
+0;9531;;;9531;34067
+0;3425;;;3425;33491
+0;1424;;;1424;33466
+0;1312;;;1312;33443
+0;2711;;;2711;33429
+0;2233;;;2233;32988
+0;8281;;;8281;32749
+0;7642;;;7642;32690
+0;2344;;;2344;32545
+0;7165;;;7165;31914
+0;7613;;;7613;31705
+0;2144;;;2144;31640
+0;8181;;;8181;31495
+0;7154;;;7154;31434
+Gradiente 3;2612;Profissionais da informação (Biblio.), Tradutores e Intérpretes;2622 / 2643 - Librarians / Translators;2612;30999
+0;2212;;;2212;30629
+0;7523;;;7523;30004
+0;9191;;;9191;29990
+0;8623;;;8623;29951
+0;1210;;;1210;29719
+0;7731;;;7731;29164
+0;5121;;;5121;29164
+0;2252;;;2252;29055
+0;8233;;;8233;28617
+0;2412;;;2412;28265
+0;9541;;;9541;27695
+0;8118;;;8118;27693
+0;7163;;;7163;27397
+0;7733;;;7733;27279
+0;7122;;;7122;26912
+0;7164;;;7164;25947
+0;7222;;;7222;25936
+0;9501;;;9501;25845
+Gradiente 2;3511;Técnicos em contabilidade e em administração;3313 / 3339 - Accounting Assoc. / Bus. Services;3511;25670
+0;7827;;;7827;25464
+0;7211;;;7211;25246
+0;8415;;;8415;25110
+0;3003;;;3003;25035
+0;2221;;;2221;24878
+0;7111;;;7111;24780
+0;8622;;;8622;24383
+0;3123;;;3123;24139
+0;1426;;;1426;24022
+0;3951;;;3951;24002
+0;5231;;;5231;23812
+0;6420;;;6420;23446
+0;7618;;;7618;22846
+Gradiente 2;3543;Analistas de comércio exterior e Leiloeiros/avaliadores;3324 / 3315 - Trade Brokers / Valuers;3543;22757
+0;1411;;;1411;22051
+Gradiente 3;2122;Engenheiros de computação e Administradores de TI;2512 / 2521 - Software Developers / DB Admins;2122;21805
+0;2032;;;2032;21778
+0;3117;;;3117;21645
+0;5103;;;5103;21611
+0;2238;;;2238;21436
+0;3321;;;3321;21323
+0;6232;;;6232;21051
+0;7257;;;7257;21048
+0;6226;;;6226;21043
+0;5192;;;5192;20682
+0;7652;;;7652;20649
+0;7201;;;7201;20557
+Gradiente 2;4212;Coletadores de apostas e de jogos;4212 - Bookmakers and Croupiers;4212;20430
+0;7202;;;7202;20363
+0;8321;;;8321;20350
+0;3185;;;3185;20334
+0;1112;;;1112;20217
+0;1113;;;1113;20089
+0;3313;;;3313;20042
+0;3186;;;3186;20029
+0;2041;;;2041;19778
+0;8212;;;8212;19661
+0;2141;;;2141;19570
+Gradiente 1;4151;Auxiliares de serviços de documentação, informação e pesquisa;4415 - Filing and Copying Clerks;4151;19374
+0;7661;;;7661;18862
+0;9111;;;9111;18856
+0;3221;;;3221;18675
+0;7213;;;7213;18563
+0;5161;;;5161;18336
+0;3252;;;3252;18055
+0;5165;;;5165;18034
+0;7157;;;7157;17892
+0;3134;;;3134;17885
+0;7614;;;7614;17764
+0;2347;;;2347;17622
+0;1311;;;1311;17377
+0;3731;;;3731;17310
+0;1115;;;1115;17155
+0;3188;;;3188;16502
+0;8111;;;8111;16321
+Gradiente 2;1233;Diretores e Gerentes de comercialização e marketing;1221 - Sales and Marketing Managers;1233;16211
+0;8601;;;8601;16082
+Gradiente 2;2541;Auditor fiscal da receita federal;3352 - Government Tax and Excise Officials;2541;16011
+0;6224;;;6224;15974
+0;9999;;;9999;15847
+0;5111;;;5111;15594
+0;3523;;;3523;15431
+0;7831;;;7831;15236
+Gradiente 2;3722;Operadores de rede de teleprocessamento e afins;3511 - ICT Operations Technicians;3722;15170
+0;2534;;;2534;15128
+0;1413;;;1413;15101
+0;7113;;;7113;15098
+0;7643;;;7643;15042
+0;3115;;;3115;15021
+0;2110;;;2110;14822
+0;7223;;;7223;14812
+0;2348;;;2348;14486
+0;7612;;;7612;14437
+Gradiente 2;2617;Locutores, comentaristas e repórteres de rádio e televisão;2656 - Announcers on Radio and Television;2617;14338
+Gradiente 2;2543;Auditor-fiscal do trabalho;3352 - Government Tax and Excise Officials;2543;14309
+0;3771;;;3771;14283
+0;8331;;;8331;14242
+0;2422;;;2422;14215
+0;3744;;;3744;14181
+0;7683;;;7683;14130
+0;7603;;;7603;14012
+0;9102;;;9102;13774
+0;2031;;;2031;13576
+0;7232;;;7232;13563
+0;8413;;;8413;13430
+0;2423;;;2423;13269
+0;1020;;;1020;13266
+0;8481;;;8481;13222
+0;8113;;;8113;13039
+0;7601;;;7601;13032
+0;7721;;;7721;13032
+0;9192;;;9192;13015
+Gradiente 4;4231;Despachantes documentalistas e afins;4419 - Clerical Support Workers NEC;4231;12648
+0;6227;;;6227;12529
+0;7826;;;7826;12296
+Gradiente 2;3711;Técnicos em biblioteconomia;4411 - Library Clerks;3711;12219
+0;3180;;;3180;12218
+0;7301;;;7301;12198
+0;2030;;;2030;11942
+0;2211;;;2211;11891
+0;3143;;;3143;11756
+0;8213;;;8213;11730
+0;3122;;;3122;11706
+Gradiente 3;4241;Entrevistadores e recenseadores;4227 - Survey and Market Research Interviewers;4241;11642
+0;7701;;;7701;11517
+0;3741;;;3741;11205
+0;3751;;;3751;11131
+0;6223;;;6223;11074
+0;2239;;;2239;11060
+0;9503;;;9503;10989
+0;2153;;;2153;10982
+0;7121;;;7121;10960
+Gradiente 4;3532;Técnicos em operações e serviços bancários;3311 - Securities and Finance Dealers;3532;10757
+0;6326;;;6326;10508
+0;3424;;;3424;10499
+0;9911;;;9911;10295
+0;5131;;;5131;10089
+0;2033;;;2033;9779
+0;3001;;;3001;9748
+0;2145;;;2145;9723
+0;8110;;;8110;9592
+0;2545;;;2545;9564
+0;3184;;;3184;9406
+0;8102;;;8102;9294
+0;5166;;;5166;9171
+0;2021;;;2021;9110
+0;2011;;;2011;8884
+0;3114;;;3114;8844
+0;7411;;;7411;8813
+0;2020;;;2020;8813
+0;6430;;;6430;8776
+0;8484;;;8484;8740
+0;8411;;;8411;8720
+0;7604;;;7604;8531
+0;3212;;;3212;8480
+0;7101;;;7101;8364
+0;2151;;;2151;8356
+0;7734;;;7734;8289
+0;8101;;;8101;8270
+0;3120;;;3120;8236
+0;2621;;;2621;8131
+0;3135;;;3135;8049
+Gradiente 3;2614;Profissionais da informação (Biblio.), Tradutores e Intérpretes;2622 / 2643 - Librarians / Translators;2614;8034
+0;9141;;;9141;8015
+0;3163;;;3163;8008
+0;9153;;;9153;7983
+0;2424;;;2424;7958
+0;6301;;;6301;7917
+0;9193;;;9193;7774
+0;2140;;;2140;7760
+0;7522;;;7522;7706
+0;8232;;;8232;7681
+0;8114;;;8114;7632
+0;6322;;;6322;7566
+0;3412;;;3412;7504
+0;7620;;;7620;7387
+0;8611;;;8611;7271
+0;8417;;;8417;7221
+0;7254;;;7254;7220
+0;7224;;;7224;7167
+0;3148;;;3148;7120
+0;2132;;;2132;7033
+0;3721;;;3721;6983
+0;5164;;;5164;6829
+0;2147;;;2147;6811
+0;7221;;;7221;6713
+0;3110;;;3110;6707
+0;7801;;;7801;6632
+0;8625;;;8625;6617
+0;7253;;;7253;6600
+0;2343;;;2343;6463
+Gradiente 3;2112;Profissionais da matemática, atuários e estatísticos;2120 - Mathematicians, Actuaries and Statisticians;2112;6389
+0;2627;;;2627;6375
+0;9143;;;9143;6220
+0;7511;;;7511;6191
+0;8482;;;8482;6142
+0;3181;;;3181;6079
+Gradiente 2;2613;Arquivistas e museólogos;2621 - Archivists and Curators;2613;6037
+0;2628;;;2628;5991
+0;2134;;;2134;5902
+0;8202;;;8202;5726
+0;3142;;;3142;5688
+0;3187;;;3187;5503
+0;8116;;;8116;5427
+0;2349;;;2349;5415
+0;6313;;;6313;5310
+0;3322;;;3322;5291
+0;5243;;;5243;5243
+0;7623;;;7623;5242
+0;2341;;;2341;5053
+0;3426;;;3426;4854
+0;6320;;;6320;4828
+0;8221;;;8221;4808
+0;5102;;;5102;4739
+0;7751;;;7751;4695
+0;9151;;;9151;4685
+0;7735;;;7735;4677
+0;7651;;;7651;4653
+0;8421;;;8421;4580
+0;2034;;;2034;4573
+0;5242;;;5242;4540
+0;3226;;;3226;4505
+0;3732;;;3732;4503
+Gradiente 3;3422;Despachantes aduaneiros;3331 - Clearing and Forwarding Agents;3422;4466
+0;7606;;;7606;4419
+0;3413;;;3413;4369
+Gradiente 2;3544;Analistas de comércio exterior e Leiloeiros/avaliadores;3324 / 3315 - Trade Brokers / Valuers;3544;4349
+0;2253;;;2253;4289
+0;8231;;;8231;4263
+0;8211;;;8211;4245
+0;2413;;;2413;4170
+Gradiente 2;1236;Diretores e Gerentes de serviços de informática;1330 - ICT Service Managers;1236;4167
+0;2533;;;2533;4141
+0;7231;;;7231;4140
+Gradiente 2;3547;Técnicos de vendas especializadas e Rep. comerciais autônomos;3322 - Commercial Sales Representatives;3547;4124
+Gradiente 1;2618;Fotógrafos profissionais;3431 - Photographers;2618;4033
+0;7813;;;7813;3994
+0;2626;;;2626;3938
+0;6312;;;6312;3893
+0;2152;;;2152;3891
+0;1142;;;1142;3877
+0;7161;;;7161;3871
+0;2526;;;2526;3761
+0;3546;;;3546;3711
+0;7653;;;7653;3675
+0;7654;;;7654;3641
+0;2035;;;2035;3625
+0;7312;;;7312;3597
+0;8624;;;8624;3563
+0;8201;;;8201;3548
+0;1232;;;1232;3526
+0;3250;;;3250;3495
+0;3146;;;3146;3472
+0;2631;;;2631;3438
+0;3411;;;3411;3404
+0;3223;;;3223;3364
+0;7605;;;7605;3341
+0;7664;;;7664;3318
+0;6133;;;6133;3297
+0;8311;;;8311;3217
+0;7622;;;7622;3177
+0;2146;;;2146;3170
+0;6110;;;6110;3101
+0;6120;;;6120;3093
+0;7510;;;7510;3008
+Gradiente 3;2616;Profissionais do jornalismo e Editores;2642 / 2641 - Journalists / Authors;2616;2969
+0;3182;;;3182;2893
+0;8103;;;8103;2874
+0;7811;;;7811;2844
+0;8301;;;8301;2818
+0;9542;;;9542;2792
+0;7524;;;7524;2779
+0;7828;;;7828;2740
+0;4153;;;4153;2727
+0;1141;;;1141;2699
+Gradiente 2;1227;Diretores e Gerentes em instituições de interm. financeira;1346 - Financial and Insurance Branch Managers;1227;2686
+0;7817;;;7817;2626
+0;7911;;;7911;2625
+Gradiente 3;2615;Profissionais da escrita (Autores, redatores, críticos);2641 - Authors and Related Writers;2615;2586
+0;8612;;;8612;2517
+0;3030;;;3030;2497
+0;8332;;;8332;2418
+0;7764;;;7764;2418
+0;1226;;;1226;2347
+0;7256;;;7256;2337
+0;1111;;;1111;2255
+0;7732;;;7732;2248
+0;2623;;;2623;2237
+0;8416;;;8416;2155
+0;3147;;;3147;2134
+0;7686;;;7686;2063
+Gradiente 2;1224;Diretores e Gerentes de operações comerciais (Varejo/Atacado);1420 - Retail and Wholesale Trade Managers;1224;1995
+0;3742;;;3742;1989
+0;8121;;;8121;1967
+0;3020;;;3020;1964
+0;8115;;;8115;1962
+0;7681;;;7681;1958
+Gradiente 1;3713;Técnicos em artes gráficas;7321 - Pre-press Technicians;3713;1944
+Gradiente 2;2511;Pesquisadores sociais (Sociólogos, Antropólogos) e Filósofos;2632 / 2633 - Sociologists / Philosophers;2511;1942
+0;1234;;;1234;1936
+0;2010;;;2010;1929
+0;1222;;;1222;1901
+0;3281;;;3281;1899
+Gradiente 2;2513;Profissionais em pesquisa e análise geográfica;2165 - Cartographers and Surveyors;2513;1891
+0;1237;;;1237;1837
+0;8412;;;8412;1797
+0;3161;;;3161;1797
+0;7621;;;7621;1774
+0;3227;;;3227;1774
+0;7682;;;7682;1767
+0;1223;;;1223;1765
+Gradiente 3;3545;Técnicos e Corretores de seguros;3321 - Insurance Representatives;3545;1764
+0;3763;;;3763;1751
+0;9543;;;9543;1719
+0;1238;;;1238;1712
+0;9502;;;9502;1629
+0;2622;;;2622;1625
+0;8112;;;8112;1622
+0;9109;;;9109;1605
+0;3116;;;3116;1527
+0;6131;;;6131;1414
+0;2342;;;2342;1397
+0;3225;;;3225;1395
+Gradiente 1;1225;Dir. e Gerentes de op. em empresas de turismo/hotelaria;1411 - Hotel Managers;1225;1346
+0;7162;;;7162;1340
+0;7650;;;7650;1306
+0;9912;;;9912;1299
+0;2429;;;2429;1254
+0;2012;;;2012;1253
+0;9142;;;9142;1231
+0;7687;;;7687;1225
+0;7502;;;7502;1182
+0;2222;;;2222;1163
+0;5114;;;5114;1127
+0;3231;;;3231;1098
+Gradiente 1;2131;Físicos e Profissionais das ciências atmosféricas/espaciais;2111 / 2112 - Physicists / Meteorologists;2131;1073
+0;3112;;;3112;1072
+0;7521;;;7521;1057
+0;2148;;;2148;992
+0;1418;;;1418;971
+0;3113;;;3113;970
+0;3010;;;3010;954
+0;6324;;;6324;911
+0;3201;;;3201;882
+0;3253;;;3253;882
+0;7611;;;7611;872
+0;6234;;;6234;858
+0;7114;;;7114;843
+0;1144;;;1144;820
+0;2414;;;2414;802
+0;3191;;;3191;783
+0;3524;;;3524;768
+0;3183;;;3183;757
+0;8486;;;8486;736
+0;1221;;;1221;715
+0;7246;;;7246;706
+0;7772;;;7772;685
+0;3519;;;3519;681
+0;3743;;;3743;676
+0;6125;;;6125;667
+0;7401;;;7401;649
+0;3192;;;3192;635
+0;2263;;;2263;624
+0;6323;;;6323;597
+0;6228;;;6228;581
+0;3772;;;3772;571
+0;2629;;;2629;549
+0;3213;;;3213;520
+0;6130;;;6130;511
+0;6121;;;6121;507
+0;7421;;;7421;503
+0;6132;;;6132;498
+0;6123;;;6123;485
+0;4242;;;4242;473
+0;2625;;;2625;466
+0;6222;;;6222;458
+0;6314;;;6314;455
+Gradiente 1;3712;Técnicos em museologia e afins;3433 - Gallery and Museum Technicians;3712;437
+0;6325;;;6325;416
+0;5115;;;5115;413
+0;1143;;;1143;386
+0;1010;;;1010;361
+0;7771;;;7771;356
+0;6124;;;6124;350
+Gradiente 1;2133;Físicos e Profissionais das ciências atmosféricas/espaciais;2111 / 2112 - Physicists / Meteorologists;2133;341
+0;3762;;;3762;320
+0;8422;;;8422;306
+0;7501;;;7501;274
+0;3012;;;3012;272
+0;7602;;;7602;263
+0;6310;;;6310;261
+0;1011;;;1011;254
+0;1130;;;1130;246
+0;3761;;;3761;245
+Gradiente 2;2542;Auditor fiscal da previdência social;3352 - Government Tax and Excise Officials;2542;236
+0;9152;;;9152;225
+0;6134;;;6134;164
+0;3764;;;3764;152
+0;2619;;;2619;151
+0;6311;;;6311;100
+0;9154;;;9154;75
+0;6127;;;6127;66
+0;6126;;;6126;60
+0;5169;;;5169;60
+0;6128;;;6128;30
+Gradiente 2;2514;Pesquisadores sociais (Sociólogos, Antropólogos) e Filósofos;2632 / 2633 - Sociologists / Philosophers;2514;20
+0;5168;;;5168;20
+0;2261;;;2261;17
+0;6122;;;6122;5
+0;5198;;;5198;2
+0;5167;;;5167;1

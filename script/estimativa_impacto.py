@@ -29,13 +29,20 @@ df_classificacao['Código CBO'] = df_classificacao['Código CBO'].astype(str)
 df_rais['codigo_cbo_4'] = df_rais['codigo_cbo_4'].astype(str)
 
 # Fazer o cruzamento (Merge) das bases
+# MUDANÇA: 'how' alterado para 'right' para manter todos os CBOs da RAIS
 df_impacto = pd.merge(
     df_classificacao, 
     df_rais, 
     left_on='Código CBO', 
     right_on='codigo_cbo_4', 
-    how='left' 
+    how='right' 
 )
+
+# MUDANÇA: Preencher CBOs não classificados como Gradiente 0
+df_impacto['Gradiente'] = df_impacto['Gradiente'].fillna(0)
+
+# MUDANÇA: Garantir que a coluna 'Código CBO' não fique vazia (puxando o código da RAIS)
+df_impacto['Código CBO'] = df_impacto['Código CBO'].fillna(df_impacto['codigo_cbo_4'])
 
 df_impacto['total_vinculos_ativos'] = df_impacto['total_vinculos_ativos'].fillna(0)
 
