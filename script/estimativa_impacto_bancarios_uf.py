@@ -40,14 +40,13 @@ df_classificacao['Código CBO'] = (
     .str.zfill(4)
 )
 
-# 3. Arrumar a base da RAIS (preencher zeros, garantir 6 dígitos e CORTAR para 4 dígitos)
+# 3. Arrumar a base da RAIS (Garantir 4 dígitos com zero à esquerda, se necessário)
 df_rais_estados['codigo_cbo_4'] = (
     df_rais_estados['codigo_cbo_4']
     .astype(str)
     .str.replace('.0', '', regex=False)
     .str.strip()
-    .str.zfill(6)
-    .str[:4] # <--- O SEGREDO AQUI: Pegamos apenas nos 4 primeiros dígitos!
+    .str.zfill(4) # <-- Alterado para 4, removendo o .str[:4] no final
 )
 
 # 4. Fazer o cruzamento (Merge)
